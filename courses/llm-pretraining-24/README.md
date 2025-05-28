@@ -13,7 +13,7 @@ This course is geared towards Master's students who have experience with either 
 
 ## Information
 
-**Instructor:** [Michael Sullivan](https://www.acsu.buffalo.edu/~mjs227/)
+**Instructor:** [Michael Sullivan](https://mjs227.github.io/home/)
 - mjs227@buffalo.edu (I check this one more often)
 - or msullivan@lst.uni-saarland.de
 
