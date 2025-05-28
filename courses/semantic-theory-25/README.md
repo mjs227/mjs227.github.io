@@ -9,7 +9,7 @@ Finally, this course will discuss current research questions in the field of Sem
 
 ## Information
 
-**Instructor:** [Michael Sullivan](https://www.acsu.buffalo.edu/~mjs227/) (msullivan@lst.uni-saarland.de)
+**Instructor:** [Michael Sullivan](https://mjs227.github.io/home/) (msullivan@lst.uni-saarland.de)
 
 **Time/Location:** Tues/Wed 10:15 - 11:45; Building C7.3, Room 1.12
 
