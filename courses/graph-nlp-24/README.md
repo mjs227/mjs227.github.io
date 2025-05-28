@@ -12,7 +12,7 @@ You do not, however, need any background in graph deep learning: we will discuss
 
 ## Information
 
-**Instructor:** [Michael Sullivan](https://www.acsu.buffalo.edu/~mjs227/)
+**Instructor:** [Michael Sullivan](https://mjs227.github.io/home/)
 - mjs227@buffalo.edu (I check this one more often)
 - or msullivan@lst.uni-saarland.de
 
