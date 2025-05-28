@@ -13,7 +13,7 @@ This course is geared towards Master's students who have experience with either 
 
 ## Information
 
-**Instructor:** [Michael Sullivan](https://www.acsu.buffalo.edu/~mjs227/)
+**Instructor:** [Michael Sullivan](https://mjs227.github.io/home/)
 - msullivan@lst.uni-saarland.de
 
 **Time/Location:** Building C7.2, Room 1.04 (time varies per team) 
