@@ -11,6 +11,6 @@
 
 [Exercise 4: Generalized Quantifiers](https://mjs227.github.io/courses/semantic-theory-25/assignments/ST25_ex4.pdf) ([key](https://mjs227.github.io/courses/semantic-theory-25/assignments/ST25_ex4_key.pdf))
 
-[Exercise 5: Event Semantics](https://mjs227.github.io/courses/semantic-theory-25/assignments/ST25_ex5.pdf)
+[Exercise 5: Event Semantics](https://mjs227.github.io/courses/semantic-theory-25/assignments/ST25_ex5.pdf) ([key](https://mjs227.github.io/courses/semantic-theory-25/assignments/ST25_ex5_key.pdf))
 
 [Exercise 6: Lexical Semantics](https://mjs227.github.io/courses/semantic-theory-25/assignments/ST25_ex6.pdf)
