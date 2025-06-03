@@ -14,3 +14,5 @@
 [Exercise 5: Event Semantics](https://mjs227.github.io/courses/semantic-theory-25/assignments/ST25_ex5.pdf) ([key](https://mjs227.github.io/courses/semantic-theory-25/assignments/ST25_ex5_key.pdf))
 
 [Exercise 6: Lexical Semantics](https://mjs227.github.io/courses/semantic-theory-25/assignments/ST25_ex6.pdf)
+
+[Exercise 7: Dynamic Semantics](https://mjs227.github.io/courses/semantic-theory-25/assignments/ST25_ex7.pdf)
