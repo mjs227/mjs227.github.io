@@ -15,6 +15,6 @@
 | Week 9:<br>June 10-11 | [Discourse Representation Theory<br>(Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/discourse-representation-theory/) | DRT | Exercise 7: Dynamic Semantics |
 | Week 10:<br>June 17-18 | None | Presuppositions in DRT | Exercise 8: DRT |
 | Week 11:<br>June 24-25 | None | <strike>Implicature</strike><br>Current Issues and Applications | Exercise 9: Presuppositions in DRT |
-| Week 12:<br>July 1-2 | None | ~Current Issues and Applications~<br>Exam Review | ~Exercise 10: Implicature~<br>Take-home Practice Exam |
-| Week 13:<br>July 8-9 | None | ~Exam Review~<br>*No lecture* | ~Take-home Practice Exam~<br>*No lecture* |
+| Week 12:<br>July 1-2 | None | <strike>Current Issues and Applications</strike><br>Exam Review | <strike>Exercise 10: Implicature</strike><br>Take-home Practice Exam |
+| Week 13:<br>July 8-9 | None | <strike>Exam Review</strike><br>*No lecture* | <strike>Take-home Practice Exam</strike><br>*No lecture* |
 | Week 14:<br>July 15-16 | None | **Exam** | No lecture |
