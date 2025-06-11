@@ -15,3 +15,7 @@
 [Week 6: Event Semantics](https://mjs227.github.io/courses/semantic-theory-25/lecture-slides/06_event.pdf)
 
 [Week 7: Lexical Semantics](https://mjs227.github.io/courses/semantic-theory-25/lecture-slides/07_lexical.pdf)
+
+[Week 8: Dynamic Semantics](https://mjs227.github.io/courses/semantic-theory-25/lecture-slides/08_dynamic.pdf)
+
+[Week 9: Discourse Representation Theory](https://mjs227.github.io/courses/semantic-theory-25/lecture-slides/09_DRT.pdf)
