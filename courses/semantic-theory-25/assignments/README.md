@@ -17,6 +17,6 @@
 
 [Exercise 7: Dynamic Semantics](https://mjs227.github.io/courses/semantic-theory-25/assignments/ST25_ex7.pdf) ([key](https://mjs227.github.io/courses/semantic-theory-25/assignments/ST25_ex7_key.pdf))
 
-[Exercise 8: Discourse Representation Theory](https://mjs227.github.io/courses/semantic-theory-25/assignments/ST25_ex8.pdf)
+[Exercise 8: Discourse Representation Theory](https://mjs227.github.io/courses/semantic-theory-25/assignments/ST25_ex8.pdf) ([key](https://mjs227.github.io/courses/semantic-theory-25/assignments/ST25_ex8_key.pdf))
 
 [Exercise 9: Presuppositions in DRT](https://mjs227.github.io/courses/semantic-theory-25/assignments/ST25_ex9.pdf)
