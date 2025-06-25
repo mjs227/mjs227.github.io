@@ -19,3 +19,5 @@
 [Week 8: Dynamic Semantics](https://mjs227.github.io/courses/semantic-theory-25/lecture-slides/08_dynamic.pdf)
 
 [Week 9: Discourse Representation Theory](https://mjs227.github.io/courses/semantic-theory-25/lecture-slides/09_DRT.pdf)
+
+[Week 10: Current Issues and Applications](https://mjs227.github.io/courses/semantic-theory-25/lecture-slides/10_current_issues.pdf)
