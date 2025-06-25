@@ -20,4 +20,6 @@
 
 [Week 9: Discourse Representation Theory](https://mjs227.github.io/courses/semantic-theory-25/lecture-slides/09_DRT.pdf)
 
-[Week 10: Current Issues and Applications](https://mjs227.github.io/courses/semantic-theory-25/lecture-slides/10_current_issues.pdf)
+[Week 10: Presuppositions (in DRT)](https://mjs227.github.io/courses/semantic-theory-25/lecture-slides/10_presuppositions.pdf)
+
+[Week 11: Current Issues and Applications](https://mjs227.github.io/courses/semantic-theory-25/lecture-slides/11_current_issues.pdf)
