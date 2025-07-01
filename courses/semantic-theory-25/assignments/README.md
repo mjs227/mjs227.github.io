@@ -21,4 +21,4 @@
 
 [Exercise 9: Presuppositions in DRT](https://mjs227.github.io/courses/semantic-theory-25/assignments/ST25_ex9.pdf) ([key](https://mjs227.github.io/courses/semantic-theory-25/assignments/ST25_ex9_key.pdf))
 
-[Practice Exam](https://mjs227.github.io/courses/semantic-theory-25/assignments/ST25_practice_exam.pdf)
+[Practice Exam](https://mjs227.github.io/courses/semantic-theory-25/assignments/ST25_practice_exam.pdf) ([key](https://mjs227.github.io/courses/semantic-theory-25/assignments/ST25_practice_exam_key.pdf))
