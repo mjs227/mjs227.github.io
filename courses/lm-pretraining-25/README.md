@@ -1,4 +1,4 @@
-# Pretraining LLMs (UdS; WiSe 25/26)
+# Pretraining LMs (UdS; WiSe 25/26)
 
 ## Description
 
@@ -50,3 +50,8 @@ You will then write up a final report on your findings. Describe your baseline m
 The final report and all code/materials used in Phases 1-4 will be due by March 21, 2025.
 
 ## Evaluation
+
+```
+Project Work (Phases 1-4): 65%
+Final Report (Phase 5): 35%
+```
