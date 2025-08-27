@@ -2,13 +2,17 @@
 
 ## Description
 
-Correct pretraining of LLMs is critical for optimal downstream performance. Unfortunately, the prohibitive size of SoTA models means that many students never get the chance to gain hands-on experience in this area. Furthermore, the actual pretraining process is often hidden in the appendix or glossed over entirely in research papers and technical reports (especially for propreitary models), making it extremely difficult to gain insight into good practices.
+Correct pretraining of language models is critical for optimal downstream performance. Unfortunately, the prohibitive size of SoTA LLMs means that many students never get the chance to gain hands-on experience in this area. Furthermore, the actual pretraining process is often hidden in the appendix or glossed over entirely in research papers and technical reports (especially for propreitary models), making it extremely difficult to gain insight into good practices.
 
-The goal of this software project is to rectify this state of affairs: students will gain hands-on experience pretraining an LLM from scratch, evaluating their pretrained model, analyzing the results of these evaluations, and making informed, iterative improvements to the architecture and/or pretraining procedure based on these analyses&mdash;all on a highly constrained time and resource budget. In groups of 1-3, students will choose a baseline model architecture, pretraining dataset, and set of validation tasks. The overall objective of this course is to gradually improve the model's performance on the validation tasks, by iteratively tweaking the model architecture and pretraining pipeline.
+The goal of this software project is to rectify this state of affairs: students will gain hands-on experience pretraining an LM from scratch, evaluating their pretrained model, analyzing the results of these evaluations, and making informed, iterative improvements to the architecture and/or pretraining procedure based on these analyses&mdash;all on a highly constrained time and resource budget. In groups of three, students will choose a baseline model architecture, pretraining dataset, and set of validation tasks. The overall objective of this course is to gradually improve the model's performance on the validation tasks, by iteratively tweaking the model architecture and pretraining pipeline.
 
 ## Prerequisites
 
 This course is geared towards Master's students who have experience with either PyTorch or Tensorflow. You should also be familiar with the details of transformer architectures (multi-head attention, etc.) and basic preprocessing methods such as data de-duplication and tokenization.
+
+## Registration
+
+Please register on LSF *and* fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLScmdvKL0QTbbhuEHq0gOJl94wtelkGvlIgduxqyEm6jrEtXVQ/viewform?usp=dialog). I'll send out an email to everyone who is accepted into the course. 
 
 ## Information
 
