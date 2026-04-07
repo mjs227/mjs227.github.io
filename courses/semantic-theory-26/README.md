@@ -15,7 +15,7 @@ Finally, this course will discuss current research questions in the field of Sem
 
 **Office Hours:** Mon 15:00 - 17:00; Building C7.2, Room 1.04 (or on Teams by appointment)
 
-**Teams Channel:** TBA
+**Teams Channel:** \[162098\] Semantic Theory (code to join: qox7o3o)
 
 ## Evaluation
 
