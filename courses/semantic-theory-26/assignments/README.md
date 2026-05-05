@@ -5,3 +5,5 @@
 # Assignments
 
 [Exercise 1: Predicate Logic](https://mjs227.github.io/courses/semantic-theory-26/assignments/ST26_ex1.pdf) ([key](https://mjs227.github.io/courses/semantic-theory-26/assignments/ST26_ex1_key.pdf))
+
+[Exercise 2: Type Theory](https://mjs227.github.io/courses/semantic-theory-26/assignments/ST26_ex2.pdf)
