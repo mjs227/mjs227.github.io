@@ -7,3 +7,5 @@
 [Week 2: Predicate Logic](https://mjs227.github.io/courses/semantic-theory-26/lecture-slides/02_predicate_logic.pdf)
 
 [Week 3: Type Theory](https://mjs227.github.io/courses/semantic-theory-26/lecture-slides/03_type_theory.pdf)
+
+[Week 4: Lambda Calculus](https://mjs227.github.io/courses/semantic-theory-26/lecture-slides/04_lambda_calculus.pdf)
