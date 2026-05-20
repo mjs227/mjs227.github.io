@@ -8,6 +8,6 @@
 
 [Exercise 2: Type Theory](https://mjs227.github.io/courses/semantic-theory-26/assignments/ST26_ex2.pdf) ([key](https://mjs227.github.io/courses/semantic-theory-26/assignments/ST26_ex2_key.pdf))
 
-[Exercise 3: Lambda Calculus](https://mjs227.github.io/courses/semantic-theory-26/assignments/ST26_ex3.pdf)
+[Exercise 3: Lambda Calculus](https://mjs227.github.io/courses/semantic-theory-26/assignments/ST26_ex3.pdf) ([key](https://mjs227.github.io/courses/semantic-theory-26/assignments/ST26_ex3_key.pdf))
 
 [Exercise 4: Generalized Quantifiers](https://mjs227.github.io/courses/semantic-theory-26/assignments/ST26_ex4.pdf)
