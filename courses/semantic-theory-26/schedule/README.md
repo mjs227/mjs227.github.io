@@ -14,7 +14,7 @@
 | Week 8:<br>June 2-3 | None | Lexical Semantics | Exercise 5: Event Semantics |
 | Week 9:<br>June 9-10 | [Dynamic Semantics<br>(Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/dynamic-semantics/) | Dynamic Semantics | Exercise 6: Lexical Semantics |
 | Week 10:<br>June 16-17 | [Discourse Representation Theory<br>(Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/discourse-representation-theory/) | DRT | Exercise 7: Dynamic Semantics |
-| Week 11:<br>June 23-24 | None | Presuppositions in DRT | Exercise 8: DRT |
-| Week 12:<br>June 30 - <br>July 1 | None | Current Issues and Applications | Exercise 9: Presuppositions in DRT |
-| Week 13:<br>July 7-8 | None | Exam Review | Take-home Practice Exam |
-| Week 14:<br>July 14-15 | None | **Exam** | No lecture |
+| Week 11:<br>June 23-24 | None | Presuppositions in DRT;<br>Take-home Practice Exam Assigned | Exercise 8: DRT |
+| Week 12:<br>June 30 - <br>July 1 | None | Current Issues and Applications;<br>Exam Review | Exercise 9: Presuppositions in DRT;<br>Take-home Practice Exam |
+| Week 13:<br>July 7-8 | None | No lecture | No lecture |
+| Week 14:<br>July 14-15 | None | Exam Review | **Exam** |
