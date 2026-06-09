@@ -13,3 +13,8 @@
 [Week 5: Generalized Quantifiers](https://mjs227.github.io/courses/semantic-theory-26/lecture-slides/05_generalized_quantifiers.pdf)
 
 [Week 6: Event Semantics](https://mjs227.github.io/courses/semantic-theory-26/lecture-slides/06_event.pdf)
+
+[Week 7: Lexical Semantics](https://mjs227.github.io/courses/semantic-theory-26/lecture-slides/07_lexical.pdf)
+
+[Week 8: Dynamic Semantics](https://mjs227.github.io/courses/semantic-theory-26/lecture-slides/08_dynamic.pdf)
+
