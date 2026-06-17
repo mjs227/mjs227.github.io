@@ -16,7 +16,7 @@
 
 [Exercise 6: Lexical Semantics](https://mjs227.github.io/courses/semantic-theory-26/assignments/ST26_ex6.pdf) ([key](https://mjs227.github.io/courses/semantic-theory-26/assignments/ST26_ex6_key.pdf))
 
-[Exercise 7: Dynamic Semantics](https://mjs227.github.io/courses/semantic-theory-26/assignments/ST26_ex7.pdf)
+[Exercise 7: Dynamic Semantics](https://mjs227.github.io/courses/semantic-theory-26/assignments/ST26_ex7.pdf) ([key](https://mjs227.github.io/courses/semantic-theory-26/assignments/ST26_ex7_key.pdf))
 
 
 [Exercise 8: Discourse Representation Theory](https://mjs227.github.io/courses/semantic-theory-26/assignments/ST26_ex8.pdf)
