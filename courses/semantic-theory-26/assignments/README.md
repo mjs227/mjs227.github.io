@@ -20,4 +20,6 @@
 
 [Exercise 8: Discourse Representation Theory](https://mjs227.github.io/courses/semantic-theory-26/assignments/ST26_ex8.pdf)
 
+[Exercise 9: Presuppositions in DRT](https://mjs227.github.io/courses/semantic-theory-26/assignments/ST26_ex9.pdf)
+
 [Practice Exam](https://mjs227.github.io/courses/semantic-theory-26/assignments/ST26_practice_exam.pdf)
