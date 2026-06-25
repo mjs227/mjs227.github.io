@@ -20,3 +20,5 @@
 
 [Week 9: Discourse Representation Theory](https://mjs227.github.io/courses/semantic-theory-26/lecture-slides/09_DRT.pdf)
 
+[Week 10: Presuppositions (in DRT)](https://mjs227.github.io/courses/semantic-theory-26/lecture-slides/10_presuppositions.pdf)
+
