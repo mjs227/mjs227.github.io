@@ -2,17 +2,16 @@
 
 ## Description
 
-In this seminar, we dive into reinforcement learning for LLMs, with a particular focus on reinforcement learning with verifiable reward (RLVR): the learning paradigm powering the impressive advances in frontier reasoning LLMs. The course is divided into three units: in the Introduction, we will build up our understanding of RL algorithms, from with basic policy-gradient methods (e.g. REINFORCE) to current, cutting edge approaches (e.g. DAPO). In the Reward/Credit Assignment unit, we will study the effect of reward on RL training pipelines, and the difficulties of fine-grained credit assignment in long-horizon reasoning training. Finally, we will discuss Training Dynamics: what behavior does RL incentivize, and by what mechanisms?
+In this seminar, we delve into reinforcement learning for LLMs, with a particular focus on reinforcement learning with verifiable reward (RLVR): the learning paradigm powering current advances in frontier reasoning LLMs. The course is divided into three units: in the Introduction, we will build up our understanding of RL algorithms, from basic policy-gradient methods (e.g. REINFORCE) to current, cutting edge approaches (e.g. DAPO). In the Reward/Credit Assignment unit, we will study the effect of reward on RL training pipelines, and the difficulties of fine-grained credit assignment in long-horizon reasoning training. Finally, we will discuss Training Dynamics: what behavior does RL incentivize, and by what mechanisms?
 
 ## Prerequisites
 
-TODO
+This course assumes a solid background in ML and LLMs: in particular, you should be familiar with transformer architectures and common methods/terminology in ML/NLP, and have a solid grasp on the mathematics behind LLM training.
 
 ## Information
 
-**Instructor:** [Michael Sullivan](https://mjs227.github.io/home/)
-- mjs227@buffalo.edu (I check this one more often)
-- or msullivan@lst.uni-saarland.de
+**Instructor:** [Michael Sullivan](https://mjs227.github.io/home/) 
+- Email: msullivan@lst.uni-saarland.de
 
 **Time/Location:** Mon 12:15 - 13:45; Building C7.2, Room 1.14
 
