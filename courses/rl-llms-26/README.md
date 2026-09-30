@@ -2,7 +2,7 @@
 
 ## Description
 
-TODO
+In this seminar, we dive into reinforcement learning for LLMs, with a particular focus on reinforcement learning with verifiable reward (RLVR): the learning paradigm powering the impressive advances in frontier reasoning LLMs. The course is divided into three units: in the Introduction, we will build up our understanding of RL algorithms, from with basic policy-gradient methods (e.g. REINFORCE) to current, cutting edge approaches (e.g. DAPO). In the Reward/Credit Assignment unit, we will study the effect of reward on RL training pipelines, and the difficulties of fine-grained credit assignment in long-horizon reasoning training. Finally, we will discuss Training Dynamics: what behavior does RL incentivize, and by what mechanisms?
 
 ## Prerequisites
 
