@@ -71,4 +71,4 @@ For each sub-area, identify the main challenges and choose 2-3 papers that are r
 
 There is no minimum length for the term paper: if you satisfy all of the requirements described above, your paper will be long enough (I'm expecting these to be somewhere in the neighborhood of eight pages). There is also no strict maximum page count. That being said, please limit your paper to a reasonable length: I would really prefer not to have to read fifteen fifty-page papers at the end of the course!
 
-Term papers will be due by March 15, 2027, and should be submitted in ACL format. 
+Term papers will be due by March 15, 2027 (submission by email), and should be submitted in ACL format. 
