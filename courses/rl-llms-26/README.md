@@ -23,7 +23,7 @@ Each week, we will meet to discuss the assigned reading (see [Schedule/Reading L
 
 At the beginning of the semester, each student will choose a reading for which they will create a presentation and lead the discussion ("Discussion Leader"). If you do not reach out to me to chose a reading, I will randomly assign you a paper. The Discussion Leader will:
 
-- **Summarize**: Discuss the authors' approach/methods, main findings, and any relevant background on the topic
+- **Summarize**: Discuss the authors' approach/methods, main findings, and any relevant background literature on the topic.
 - **Critically analyze**: What is your opinion of the methods/findings of the paper? What should (or shouldn't) have been included? What limitations does this approach have?
 - **Field questions**: While you are *not* expected to cover every minute detail of the reading in your presentation, you *should* know the paper well enough to be able to answer any questions your classmates might have (within reason, of course!).
 
