@@ -10,8 +10,7 @@ This course assumes a solid background in ML and LLMs: in particular, you should
 
 ## Information
 
-**Instructor:** [Michael Sullivan](https://mjs227.github.io/home/) 
-- Email: msullivan@lst.uni-saarland.de
+**Instructor:** [Michael Sullivan](https://mjs227.github.io/home/) (email: msullivan@lst.uni-saarland.de)
 
 **Time/Location:** Mon 12:15 - 13:45; Building C7.2, Room 1.14
 
