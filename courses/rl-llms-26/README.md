@@ -15,6 +15,8 @@ This course assumes a solid background in ML and LLMs: in particular, you should
 
 **Time/Location:** Mon 12:15 - 13:45; Building C7.2, Room 1.14
 
+**Teams Channel:** \[165633\] Reinforcement Learning for LLMs (code to join: h4e8pmb)
+
 ## Format/Requirements
 
 Each week, we will meet to discuss the assigned reading (see [Schedule/Reading List](#schedulereading-list) below). All students are expected to *participate in the discussion in every class meeting*  (this includes asking questions).
