@@ -28,21 +28,6 @@ At the beginning of the semester, each student will choose a reading for which t
 - **Critically analyze**: What is your opinion of the methods/findings of the paper? What should (or shouldn't) have been included? What limitations does this approach have?
 - **Field questions**: While you are *not* expected to cover every minute detail of the reading in your presentation, you *should* know the paper well enough to be able to answer any questions your classmates might have (within reason, of course!).
 
-## Evaluation
-
-For students taking the course for 4 credits:
-```
-Participation in class discussions: 50%
-Discussion Leader: 50%
-```
-
-For students taking the course for 7 credits:
-```
-Participation in class discussions: 30%
-Discussion Leader: 30%
-Term paper: 40%
-```
-
 ## Schedule/Reading List
 
 | Topic | Date | Reading | Discussion Leader |
@@ -73,3 +58,18 @@ For each sub-area, identify the main challenges and choose 2-3 papers that are r
 There is no minimum length for the term paper: if you satisfy all of the requirements described above, your paper will be long enough (I'm expecting these to be somewhere in the neighborhood of eight pages). There is also no strict maximum page count. That being said, please limit your paper to a reasonable length: I would really prefer not to have to read fifteen fifty-page papers at the end of the course!
 
 Term papers will be due by March 15, 2027 (submission by email), and should be submitted in ACL format. 
+
+## Evaluation
+
+For students taking the course for 4 credits:
+```
+Participation in class discussions: 50%
+Discussion Leader: 50%
+```
+
+For students taking the course for 7 credits:
+```
+Participation in class discussions: 30%
+Discussion Leader: 30%
+Term paper: 40%
+```
