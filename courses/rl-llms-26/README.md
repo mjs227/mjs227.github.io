@@ -32,7 +32,7 @@ At the beginning of the semester, each student will choose a reading for which t
 
 | Topic | Date | Reading | Discussion Leader |
 | :--- | :--- | :--- | :--- |
-| Introduction | Oct. 19 | None (logistics and scheduling): [slides](https://mjs227.github.io/courses/rl-llms-26/RL-LLMs-day1.pdf) <br>**NOTE: CLASS ONLINE** (Michael at RTG retreat) | Michael |
+| Introduction | Oct. 19 | None (logistics and scheduling): [slides available here](https://mjs227.github.io/courses/rl-llms-26/RL-LLMs-day1.pdf) <br>**NOTE: CLASS ONLINE** (Michael at RTG retreat) | Michael |
 | Introduction | Oct. 26 | **NO CLASS** (Michael at EMNLP) | - |
 | Introduction | Nov. 2 | [A First-Principles Derivation of LLM Policy Optimization](https://arxiv.org/pdf/2606.16733) (Part I) | Michael |
 | Introduction | Nov. 9 | [DAPO](https://arxiv.org/pdf/2503.14476) & [DeepSeekMath](https://arxiv.org/pdf/2402.03300) (Sec. 4)  | TBD |
