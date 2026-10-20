@@ -46,7 +46,7 @@ At the beginning of the semester, each student will choose a reading for which t
 | Training Dynamics | Jan. 4 | [RL's Razor](https://proceedings.iclr.cc/paper_files/paper/2026/file/618c95f4557c15b253fb0e6f548ea0c0-Paper-Conference.pdf) | Alina |
 | Training Dynamics | Jan. 11 | **NO CLASS** (Michael in US) | - |
 | Training Dynamics | Jan. 18 | [SFT Memorizes, RL Generalizes](https://openreview.net/pdf?id=d3E3LWmTar) | TBD |
-| Training Dynamics | Jan. 25 | [Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?](https://proceedings.neurips.cc/paper_files/paper/2025/file/537d5aa768c2d534016a4d06f87bc8fb-Paper-Conference.pdf) | TBD |
+| Training Dynamics | Jan. 25 | [Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?](https://proceedings.neurips.cc/paper_files/paper/2025/file/537d5aa768c2d534016a4d06f87bc8fb-Paper-Conference.pdf) | Florian |
 | Training Dynamics | Feb. 1 | [ProRL](https://proceedings.neurips.cc/paper_files/paper/2025/file/1a22b912945fb7c0bdd079e792b31b6f-Paper-Conference.pdf) | Alena |
 
 ## Term Papers
