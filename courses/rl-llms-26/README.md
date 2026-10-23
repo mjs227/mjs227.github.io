@@ -37,7 +37,7 @@ At the beginning of the semester, each student will choose a reading for which t
 | Introduction | Nov. 2 | [A First-Principles Derivation of LLM Policy Optimization](https://arxiv.org/pdf/2606.16733) (Part I) | Michael |
 | Introduction | Nov. 9 | [DeepSeekMath](https://arxiv.org/pdf/2402.03300) (Sec. 4) & [DAPO](https://arxiv.org/pdf/2503.14476) | Bakytzhan |
 | Reward/Credit Assignment | Nov. 16 | [Demystifying Long Chain-of-Thought Reasoning in LLMs](https://arxiv.org/pdf/2502.03373) | TBD |
-| Reward/Credit Assignment | Nov. 23 | [Reward Under Attack](https://arxiv.org/pdf/2603.06621) | TBD |
+| Reward/Credit Assignment | Nov. 23 | [Reward Under Attack](https://arxiv.org/pdf/2603.06621) | Paulina |
 | Reward/Credit Assignment | Nov. 30 | [VinePPO](https://arxiv.org/pdf/2410.01679) | Peter |
 | Reward/Credit Assignment | Dec. 7 | [GRPO is Secretly a Process Reward Model](https://arxiv.org/pdf/2509.21154) | TBD |
 | Training Dynamics | Dec. 14 | [The Entropy Mechanism of Reinforcement Learning for Reasoning Language Models](https://arxiv.org/pdf/2505.22617) | Nursulu |
