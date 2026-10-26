@@ -36,7 +36,7 @@ At the beginning of the semester, each student will choose a reading for which t
 | Introduction | Oct. 26 | **NO CLASS** (Michael at EMNLP) | - |
 | Introduction | Nov. 2 | [A First-Principles Derivation of LLM Policy Optimization](https://arxiv.org/pdf/2606.16733) (Part I) | Michael |
 | Introduction | Nov. 9 | [DeepSeekMath](https://arxiv.org/pdf/2402.03300) (Sec. 4) & [DAPO](https://arxiv.org/pdf/2503.14476) | Bakytzhan |
-| Reward/Credit Assignment | Nov. 16 | [Demystifying Long Chain-of-Thought Reasoning in LLMs](https://arxiv.org/pdf/2502.03373) | TBD |
+| Reward/Credit Assignment | Nov. 16 | [Demystifying Long Chain-of-Thought Reasoning in LLMs](https://arxiv.org/pdf/2502.03373) | Ali |
 | Reward/Credit Assignment | Nov. 23 | [Reward Under Attack](https://arxiv.org/pdf/2603.06621) | Paulina |
 | Reward/Credit Assignment | Nov. 30 | [VinePPO](https://arxiv.org/pdf/2410.01679) | Peter |
 | Reward/Credit Assignment | Dec. 7 | [GRPO is Secretly a Process Reward Model](https://arxiv.org/pdf/2509.21154) | TBD |
@@ -45,7 +45,7 @@ At the beginning of the semester, each student will choose a reading for which t
 | Break | Dec. 28 | **NO CLASS** (break) | - |
 | Training Dynamics | Jan. 4 | [RL's Razor](https://proceedings.iclr.cc/paper_files/paper/2026/file/618c95f4557c15b253fb0e6f548ea0c0-Paper-Conference.pdf) | Alina |
 | Training Dynamics | Jan. 11 | **NO CLASS** (Michael in US) | - |
-| Training Dynamics | Jan. 18 | [SFT Memorizes, RL Generalizes](https://openreview.net/pdf?id=d3E3LWmTar) | TBD |
+| Training Dynamics | Jan. 18 | [SFT Memorizes, RL Generalizes](https://openreview.net/pdf?id=d3E3LWmTar) | Haejin |
 | Training Dynamics | Jan. 25 | [Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?](https://proceedings.neurips.cc/paper_files/paper/2025/file/537d5aa768c2d534016a4d06f87bc8fb-Paper-Conference.pdf) | Florian |
 | Training Dynamics | Feb. 1 | [ProRL](https://proceedings.neurips.cc/paper_files/paper/2025/file/1a22b912945fb7c0bdd079e792b31b6f-Paper-Conference.pdf) | Alena |
 
