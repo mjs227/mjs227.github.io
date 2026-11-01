@@ -7,6 +7,9 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style>
 html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
+@media (min-width: 601px) {
+  .scroll-col {height: calc(100vh - 16px); overflow-y: auto}
+}
 </style>
 <body class="w3-light-grey">
 
@@ -17,7 +20,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
   <div class="w3-row-padding">
   
     <!-- Left Column -->
-    <div class="w3-third">
+    <div class="w3-third scroll-col">
     
       <div class="w3-white w3-text-grey w3-card-4">
         <div class="w3-display-container">
@@ -67,7 +70,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
     </div>
 
     <!-- Right Column -->
-    <div class="w3-twothird">
+    <div class="w3-twothird scroll-col">
     
       <div class="w3-container w3-card w3-white w3-margin-bottom">
         <h2 class="w3-text-grey w3-padding-16">About me</h2>
